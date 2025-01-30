@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=Sensor F Old Footprint=MOLEX_53261-0371 New Footprint=JST_BM03B-SRSS-TB(LF)(SN)
+Change Component Footprint: Designator=Sensor LD Old Footprint=MOLEX_53261-0371 New Footprint=JST_BM03B-SRSS-TB(LF)(SN)
+Change Component Comment : Designator=Sensor F Old Comment=53261-0371 New Comment=JST SH 3
+Change Component Comment : Designator=Sensor LD Old Comment=53261-0371 New Comment=JST SH 3
+Change Component Comment : Designator=Bateria Old Comment=B2B-PH-K-S(LF)(SN) New Comment=JST PH 2
+Change Component Comment : Designator=J? Old Comment=BM03B-SRSS-TB(LF)(SN) New Comment=JST SH 3
+Change Component Designator: OldDesignator=J? NewDesignator=Sensor LE
+Change component parameters: Designator = "Sensor F" ("Sensor F"); Footprint = "MOLEX_53261-0371"; UniqueID = "\FESXJLDP" ("\FESXJLDP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BM03B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Sensor LD" ("Sensor LD"); Footprint = "MOLEX_53261-0371"; UniqueID = "\FJYPAJDB" ("\FJYPAJDB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BM03B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM03B-SRSS-TB(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SW-SMD_SK-3293S
+Added Pin To Net: NetName=GND Pin=Sensor F-S1
+Added Pin To Net: NetName=GND Pin=Sensor F-S2
+Added Pin To Net: NetName=GND Pin=Sensor LD-S1
+Added Pin To Net: NetName=GND Pin=Sensor LD-S2
+Added Pin To Net: NetName=NetR3_1 Pin=Sensor LE-1
+Added Pin To Net: NetName=5V Pin=Sensor LE-2
+Added Pin To Net: NetName=GND Pin=Sensor LE-3
+Added Pin To Net: NetName=GND Pin=Sensor LE-S1
+Added Pin To Net: NetName=GND Pin=Sensor LE-S2
+Add Pin To Net: Unknown Pin: Pin Switch-3
+Add Pin To Net: Unknown Pin: Pin Switch-4
+Added Pin To Net: NetName=NetBateria_2 Pin=Bateria-2
+Added Net: Name=NetBateria_2
+Add Class Member: Failed to add class member : Component Switch SK-3293S

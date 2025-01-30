@@ -1,0 +1,198 @@
+Removed Pin From Net: NetName=VBat Pin=Conector Bateria-2
+Change Component Comment : Designator=Molex Picoblade Old Comment=53047-0210 New Comment=Molex Picoblade
+Change Component Comment : Designator=Switch Old Comment=SW-SMD_SK-3293S New Comment=SK-3293S
+Change Component Designator: OldDesignator=Conector Bateria NewDesignator=Bateria
+Change Component Designator: OldDesignator=Driver de motor NewDesignator=TB6612FNG
+Change Component Designator: OldDesignator=Microcontrolador NewDesignator=ESP-32 C3 SM
+Change Component Designator: OldDesignator=Molex Picoblade NewDesignator=Conector ME
+Change component parameters: Designator = "Switch" ("Switch"); Footprint = "SW-SMD_SK-3293S"; UniqueID = "\DSZFVMIM" ("\DSZFVMIM")
+Change component parameters (AddParameter): Name = "Actuator Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "Rectangular columnar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (AC)"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (DC)"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/4EA3EA25F9F21B5CC9E3D39CE49F5B8E.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "??1.4mm ???? ????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "1??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Style"; Value = "SMDSplicing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C466006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Length"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Width"; Value = "2.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "SK-3293S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0603)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0402)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC0402)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM2165C1H391JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM2165C1H391JA01D/Murata%2520Electronics%2520North%2520America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Conector MD(MOLEX_53047-0210)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0530470210/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0530470210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0530470210/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CTan(Capacitor Tântalo Case B - 3528)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJC106K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2312 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TAJC106K010RNJ/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJC106K010RNJ/AVX/view-part/1685649/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor SMD 0603)
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20K"; VariantName = "[No Variations]"
+Added Component: Designator=Sensor F(MOLEX_53261-0371)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/53261-0371/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Sensor LD(MOLEX_53261-0371)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/53261-0371/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Sensor LE(MOLEX_53261-0371)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/53261-0371/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0371/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VBat Pin=C2-2
+Added Pin To Net: NetName=VBat Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=MOTOR_DIR_OUT1 Pin=Conector MD-01
+Added Pin To Net: NetName=MOTOR_DIR_OUT2 Pin=Conector MD-02
+Added Pin To Net: NetName=MOTOR_ESQ_OUT1 Pin=Conector ME-01
+Added Pin To Net: NetName=MOTOR_ESQ_OUT2 Pin=Conector ME-02
+Added Pin To Net: NetName=VBat Pin=CTan-1
+Added Pin To Net: NetName=GND Pin=CTan-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=5V Pin=Sensor F-2
+Added Pin To Net: NetName=GND Pin=Sensor F-3
+Added Pin To Net: NetName=5V Pin=Sensor LD-2
+Added Pin To Net: NetName=GND Pin=Sensor LD-3
+Added Pin To Net: NetName=5V Pin=Sensor LE-2
+Added Pin To Net: NetName=GND Pin=Sensor LE-3
+Added Pin To Net: NetName=VBat Pin=Switch-3
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=GND Pin=Switch-4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=Sensor F-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=Sensor LD-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=Sensor LE-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=SENSOR_F Pin=ESP-32 C3 SM-10
+Added Pin To Net: NetName=SENSOR_F Pin=R1-2
+Added Pin To Net: NetName=SENSOR_F Pin=R4-1
+Added Net: Name=SENSOR_F
+Added Pin To Net: NetName=SENSOR_LD Pin=ESP-32 C3 SM-8
+Added Pin To Net: NetName=SENSOR_LD Pin=R2-2
+Added Pin To Net: NetName=SENSOR_LD Pin=R5-1
+Added Net: Name=SENSOR_LD
+Added Pin To Net: NetName=SENSOR_LE Pin=ESP-32 C3 SM-9
+Added Pin To Net: NetName=SENSOR_LE Pin=R3-2
+Added Pin To Net: NetName=SENSOR_LE Pin=R6-1
+Added Net: Name=SENSOR_LE
+Added Pin To Net: NetName=VIn Pin=Bateria-2
+Added Pin To Net: NetName=VIn Pin=Switch-2
+Added Net: Name=VIn
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C1 0.1u
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C2 0.1u
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C3 10uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component C4 22uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Conector MD Molex Picoblade
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component CTan 10uF
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R1 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R2 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R3 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R4 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R5 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component R6 Resistor SMD
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Sensor F 53261-0371
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Sensor LD 53261-0371
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Sensor LE 53261-0371
+Added Member To Class: ClassName=esquematico_placa_micro Member=Component Switch SK-3293S

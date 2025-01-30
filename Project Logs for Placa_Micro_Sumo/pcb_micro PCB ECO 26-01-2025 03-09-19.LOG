@@ -1,0 +1,90 @@
+Add Component: Footprint Not Found Capacitor SMD
+Add Component: Footprint Not Found Capacitor SMD
+Add Component: Footprint Not Found Capacitor SMD
+Add Component: Footprint Not Found Capacitor SMD
+Added Component: Designator=Conector Bateria(JST_B2B-PH-K-S(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-PH-K-S%20(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-PH-K-S (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-PH-K-S%20(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Capacitor Tântalo Case B - 3528
+Added Component: Designator=Driver de motor(TB6612 SMD)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB6612FNG(O,C,8,EL/Toshiba/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB6612FNG(O,C,8,EL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-24 Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB6612FNG(O,C,8,EL/Toshiba/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Microcontrolador(MODULE_ESP32-C3_SUPERMINI)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C3 SuperMini_TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Regulador 5V(AMS1117 5V)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-5.0/ams/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ams"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-5.0/ams/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=Driver de motor-19
+Added Pin To Net: NetName=3V3 Pin=Driver de motor-20
+Added Pin To Net: NetName=3V3 Pin=Microcontrolador-3.3
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=Microcontrolador-5V
+Added Pin To Net: NetName=5V Pin=Regulador 5V-2
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=Conector Bateria-1
+Added Pin To Net: NetName=GND Pin=Driver de motor-3
+Added Pin To Net: NetName=GND Pin=Driver de motor-4
+Added Pin To Net: NetName=GND Pin=Driver de motor-9
+Added Pin To Net: NetName=GND Pin=Driver de motor-10
+Added Pin To Net: NetName=GND Pin=Driver de motor-18
+Added Pin To Net: NetName=GND Pin=Microcontrolador-G
+Added Pin To Net: NetName=GND Pin=Regulador 5V-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=Driver de motor-21
+Added Pin To Net: NetName=MOTOR_DIR_IN1 Pin=Microcontrolador-2
+Added Net: Name=MOTOR_DIR_IN1
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=Driver de motor-22
+Added Pin To Net: NetName=MOTOR_DIR_IN2 Pin=Microcontrolador-3
+Added Net: Name=MOTOR_DIR_IN2
+Added Pin To Net: NetName=MOTOR_DIR_OUT1 Pin=Driver de motor-1
+Added Pin To Net: NetName=MOTOR_DIR_OUT1 Pin=Driver de motor-2
+Added Net: Name=MOTOR_DIR_OUT1
+Added Pin To Net: NetName=MOTOR_DIR_OUT2 Pin=Driver de motor-5
+Added Pin To Net: NetName=MOTOR_DIR_OUT2 Pin=Driver de motor-6
+Added Net: Name=MOTOR_DIR_OUT2
+Added Pin To Net: NetName=MOTOR_DIR_PWM Pin=Driver de motor-23
+Added Pin To Net: NetName=MOTOR_DIR_PWM Pin=Microcontrolador-0
+Added Net: Name=MOTOR_DIR_PWM
+Added Pin To Net: NetName=MOTOR_ESQ_IN1 Pin=Driver de motor-17
+Added Pin To Net: NetName=MOTOR_ESQ_IN1 Pin=Microcontrolador-4
+Added Net: Name=MOTOR_ESQ_IN1
+Added Pin To Net: NetName=MOTOR_ESQ_IN2 Pin=Driver de motor-16
+Added Pin To Net: NetName=MOTOR_ESQ_IN2 Pin=Microcontrolador-5
+Added Net: Name=MOTOR_ESQ_IN2
+Added Pin To Net: NetName=MOTOR_ESQ_OUT1 Pin=Driver de motor-11
+Added Pin To Net: NetName=MOTOR_ESQ_OUT1 Pin=Driver de motor-12
+Added Net: Name=MOTOR_ESQ_OUT1
+Added Pin To Net: NetName=MOTOR_ESQ_OUT2 Pin=Driver de motor-7
+Added Pin To Net: NetName=MOTOR_ESQ_OUT2 Pin=Driver de motor-8
+Added Net: Name=MOTOR_ESQ_OUT2
+Added Pin To Net: NetName=MOTOR_ESQ_PWM Pin=Driver de motor-15
+Added Pin To Net: NetName=MOTOR_ESQ_PWM Pin=Microcontrolador-1
+Added Net: Name=MOTOR_ESQ_PWM
+Added Pin To Net: NetName=VBat Pin=Conector Bateria-2
+Added Pin To Net: NetName=VBat Pin=Driver de motor-13
+Added Pin To Net: NetName=VBat Pin=Driver de motor-14
+Added Pin To Net: NetName=VBat Pin=Driver de motor-24
+Added Pin To Net: NetName=VBat Pin=Regulador 5V-3
+Added Net: Name=VBat
+Added Class: Name=esquematico_placa_micro
